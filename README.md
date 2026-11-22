@@ -164,6 +164,7 @@ Africa is home to one of the fastest-growing tech ecosystems in the world — wi
 - [500 Global](https://500.co/) - Active investor in African startups.
 - [The Big Deal](https://thebigdeal.substack.com/) - Tracks every disclosed VC deal in Africa.
 - [Africa: The Big Deal](https://africa-the-big-deal.com/) - Database of 3,000+ startup funding rounds across Africa.
+- [Techny Startups](https://techny.dev/startups?ref=gh-african-tech) - Database of 1,000+ MENA startups, Egypt and North Africa included, with funding rounds linked to their sources, investors and open roles.
 
 ## Education & Learning
 
@@ -209,6 +210,7 @@ Africa is home to one of the fastest-growing tech ecosystems in the world — wi
 - [BrighterMonday](https://www.brightermonday.co.ke/) - East Africa's leading job board (Kenya, Uganda, Tanzania).
 - [Fuzu](https://www.fuzu.com/) - Career development and job matching platform in East Africa.
 - [Jobberman](https://www.jobberman.com/) - West Africa's largest job board (Nigeria, Ghana).
+- [Techny](https://techny.dev/?ref=gh-african-tech) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from each company's own careers page every 3 hours.
 - [Andela Talent Network](https://andela.com/) - Connects vetted African engineers to global companies.
 - [Gebeya](https://gebeya.com/) - Pan-African freelance marketplace for tech talent.
 - [Tunga](https://tunga.io/) - Connects African software developers with European companies.
