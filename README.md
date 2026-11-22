@@ -164,6 +164,7 @@ Africa is home to one of the fastest-growing tech ecosystems in the world — wi
 - [500 Global](https://500.co/) - Active investor in African startups.
 - [The Big Deal](https://thebigdeal.substack.com/) - Tracks every disclosed VC deal in Africa.
 - [Africa: The Big Deal](https://africa-the-big-deal.com/) - Database of 3,000+ startup funding rounds across Africa.
+- [Techny Startups](https://techny.dev/startups?ref=gh-african-tech) - Database of 1,000+ MENA startups, Egypt and North Africa included, with funding rounds linked to their sources, investors and open roles.
 
 ## Education & Learning
 
