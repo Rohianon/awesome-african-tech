@@ -209,6 +209,7 @@ Africa is home to one of the fastest-growing tech ecosystems in the world — wi
 - [BrighterMonday](https://www.brightermonday.co.ke/) - East Africa's leading job board (Kenya, Uganda, Tanzania).
 - [Fuzu](https://www.fuzu.com/) - Career development and job matching platform in East Africa.
 - [Jobberman](https://www.jobberman.com/) - West Africa's largest job board (Nigeria, Ghana).
+- [Techny](https://techny.dev/?ref=gh-african-tech) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from each company's own careers page every 3 hours.
 - [Andela Talent Network](https://andela.com/) - Connects vetted African engineers to global companies.
 - [Gebeya](https://gebeya.com/) - Pan-African freelance marketplace for tech talent.
 - [Tunga](https://tunga.io/) - Connects African software developers with European companies.
